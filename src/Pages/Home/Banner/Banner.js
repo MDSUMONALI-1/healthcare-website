@@ -15,7 +15,7 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide</h3>
+                    <h1>Wellcome to Dhaka Dental Clinic </h1>
                        
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -27,7 +27,7 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide</h3>
+                    <h1>Wellcome to Dhaka Dental Clinic </h1>
                        
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -39,7 +39,7 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide </h3>
+                        <h1>Wellcome to Dhaka Dental Clinic </h1>
                        
                     </Carousel.Caption>
                 </Carousel.Item>
